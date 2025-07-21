@@ -1,0 +1,15 @@
+Flask
+gunicorn
+scikit-learn==1.6.1
+numpy
+pandas
+spacy
+PyMuPDF             
+python-docx        
+joblib
+python-dateutil    
+resume-parser       
+seaborn
+matplotlib
+wordcloud
+xgboost
